@@ -1,0 +1,173 @@
+<scheduler_request>
+    <authenticator>8d380d26a2cea8709b89c4d0de769c5e</authenticator>
+    <hostid>9</hostid>
+    <rpc_seqno>49</rpc_seqno>
+    <core_client_major_version>7</core_client_major_version>
+    <core_client_minor_version>0</core_client_minor_version>
+    <core_client_release>65</core_client_release>
+    <resource_share_fraction>1.000000</resource_share_fraction>
+    <rrs_fraction>1.000000</rrs_fraction>
+    <prrs_fraction>1.000000</prrs_fraction>
+    <duration_correction_factor>1.000000</duration_correction_factor>
+    <allow_multiple_clients>0</allow_multiple_clients>
+    <sandbox>0</sandbox>
+    <work_req_seconds>414720.000000</work_req_seconds>
+    <cpu_req_secs>414720.000000</cpu_req_secs>
+    <cpu_req_instances>8.000000</cpu_req_instances>
+    <estimated_delay>0.000000</estimated_delay>
+    <client_cap_plan_class>1</client_cap_plan_class>
+    <platform_name>x86_64-pc-linux-gnu</platform_name>
+    <alt_platform>
+        <name>i686-pc-linux-gnu</name>
+    </alt_platform>
+    <code_sign_key>
+        1024
+        b8f4e15b9369e2876e5e61c69d813b9e8c353ed958a5bd2404e5f6903d9f1f6f
+        635848dd3095fe6c9f47f947fcbeac6f3ab5ea62430a99006718b65db4a40872
+        cbe4fe7523b23ec050e3a875d8aa69f81740c14e978496927b5f12097bc1457e
+        fdd0176ab39c3564ffbdc5a63998b6474d8fa82cf61dd0ea6c690fd01eb10d43
+        0000000000000000000000000000000000000000000000000000000000000000
+        0000000000000000000000000000000000000000000000000000000000000000
+        0000000000000000000000000000000000000000000000000000000000000000
+        0000000000000000000000000000000000000000000000000000000000010001
+        .
+    </code_sign_key>
+    <working_global_preferences>
+        <global_preferences>
+            <source_project></source_project>
+            <mod_time>0.000000</mod_time>
+            <run_on_batteries>1</run_on_batteries>
+            <run_if_user_active>1</run_if_user_active>
+            <run_gpu_if_user_active>0</run_gpu_if_user_active>
+            <suspend_if_no_recent_input>0.000000</suspend_if_no_recent_input>
+            <suspend_cpu_usage>25.000000</suspend_cpu_usage>
+            <start_hour>0.000000</start_hour>
+            <end_hour>0.000000</end_hour>
+            <net_start_hour>0.000000</net_start_hour>
+            <net_end_hour>0.000000</net_end_hour>
+            <leave_apps_in_memory>0</leave_apps_in_memory>
+            <confirm_before_connecting>1</confirm_before_connecting>
+            <hangup_if_dialed>0</hangup_if_dialed>
+            <dont_verify_images>0</dont_verify_images>
+            <work_buf_min_days>0.100000</work_buf_min_days>
+            <work_buf_additional_days>0.500000</work_buf_additional_days>
+            <max_ncpus_pct>0.000000</max_ncpus_pct>
+            <cpu_scheduling_period_minutes>60.000000</cpu_scheduling_period_minutes>
+            <disk_interval>60.000000</disk_interval>
+            <disk_max_used_gb>1000.000000</disk_max_used_gb>
+            <disk_max_used_pct>90.000000</disk_max_used_pct>
+            <disk_min_free_gb>0.100000</disk_min_free_gb>
+            <vm_max_used_pct>75.000000</vm_max_used_pct>
+            <ram_max_used_busy_pct>50.000000</ram_max_used_busy_pct>
+            <ram_max_used_idle_pct>90.000000</ram_max_used_idle_pct>
+            <idle_time_to_run>3.000000</idle_time_to_run>
+            <max_bytes_sec_up>0.000000</max_bytes_sec_up>
+            <max_bytes_sec_down>0.000000</max_bytes_sec_down>
+            <cpu_usage_limit>100.000000</cpu_usage_limit>
+            <daily_xfer_limit_mb>0.000000</daily_xfer_limit_mb>
+            <daily_xfer_period_days>0</daily_xfer_period_days>
+            <override_file_present>1</override_file_present>
+            <network_wifi_only>0</network_wifi_only>
+        </global_preferences>
+    </working_global_preferences>
+    <cross_project_id>59852fcee9a35295c6888f83d3a50d1b</cross_project_id>
+    <time_stats>
+        <on_frac>0.113715</on_frac>
+        <connected_frac>-1.000000</connected_frac>
+        <cpu_and_network_available_frac>0.996324</cpu_and_network_available_frac>
+        <active_frac>0.996324</active_frac>
+        <gpu_active_frac>0.996324</gpu_active_frac>
+        <client_start_time>1385872798.762266</client_start_time>
+        <previous_uptime>51807.211950</previous_uptime>
+        <now>1385924605.974216</now>
+    </time_stats>
+    <net_stats>
+        <bwup>207662.365857</bwup>
+        <avg_up>740306.334169</avg_up>
+        <avg_time_up>1385924603.043932</avg_time_up>
+        <bwdown>14069093.753446</bwdown>
+        <avg_down>3641686.475343</avg_down>
+        <avg_time_down>1385924597.038342</avg_time_down>
+    </net_stats>
+    <host_info>
+        <timezone>-28800</timezone>
+        <domain_name>zac-Dell</domain_name>
+        <ip_addr>127.0.1.1</ip_addr>
+        <host_cpid>b255425ebc97e0f855cd6339adae68be</host_cpid>
+        <p_ncpus>8</p_ncpus>
+        <p_vendor>GenuineIntel</p_vendor>
+        <p_model>Intel(R) Core(TM) i7-2760QM CPU @ 2.40GHz [Family 6 Model 42 Stepping 7]</p_model>
+        <p_features>fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx rdtscp lm constant_tsc arch_perfmon pebs bts nopl xtopology nonstop_tsc aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx lahf_lm ida arat epb xsaveopt pln pts dtherm tpr_shadow vnmi flexpriority ept vpid</p_features>
+        <p_fpops>2906955737.840052</p_fpops>
+        <p_iops>10464179570.672010</p_iops>
+        <p_membw>1000000000.000000</p_membw>
+        <p_calculated>1385702581.760874</p_calculated>
+        <p_vm_extensions_disabled>0</p_vm_extensions_disabled>
+        <m_nbytes>8262721536.000000</m_nbytes>
+        <m_cache>6291456.000000</m_cache>
+        <m_swap>8476684288.000000</m_swap>
+        <d_total>48337190912.000000</d_total>
+        <d_free>6124220416.000000</d_free>
+        <os_name>Linux</os_name>
+        <os_version>3.5.0-43-generic</os_version>
+        <virtualbox_version>4.1.12_Ubuntur77245</virtualbox_version>
+    </host_info>
+    <disk_usage>
+        <d_boinc_used_total>5061242.000000</d_boinc_used_total>
+        <d_boinc_used_project>1040988.000000</d_boinc_used_project>
+        <d_project_share>6624098223.160000</d_project_share>
+    </disk_usage>
+    <result>
+        <name>worker_6652_1385921891.683848_0</name>
+        <final_cpu_time>0.000000</final_cpu_time>
+        <final_elapsed_time>2.006402</final_elapsed_time>
+        <exit_status>0</exit_status>
+        <state>5</state>
+        <platform>i686-pc-linux-gnu</platform>
+        <version_num>100</version_num>
+        <app_version_num>100</app_version_num>
+        <stderr_out>
+            <core_client_version>7.0.65</core_client_version>
+            <![CDATA[
+<stderr_txt>
+11:03:17 (6295): wrapper: starting
+11:03:17 (6295): wrapper: running ../../projects/metacaptcha.com_final/worker (10)
+--2013-12-01 11:03:17--  http://api.metacaptcha.com/public/images/439.png
+Resolving api.metacaptcha.com (api.metacaptcha.com)... 131.252.220.13
+Connecting to api.metacaptcha.com (api.metacaptcha.com)|131.252.220.13|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73992 (72K) [image/png]
+Saving to: `439.png'
+
+     0K .......... .......... .......... .......... .......... 69% 2.82M 0s
+    50K .......... .......... ..                              100% 3.38M=0.02s
+
+2013-12-01 11:03:17 (2.97 MB/s) - `439.png' saved [73992/73992]
+
+11:03:18 (6295): called boinc_finish
+
+</stderr_txt>
+]]>
+        </stderr_out>
+        <file_info>
+            <name>worker_6652_1385921891.683848_0_0</name>
+            <nbytes>3</nbytes>
+            <max_nbytes>5000000.000000</max_nbytes>
+            <md5_cksum>08c6a51dde006e64aed953b94fd68f0c</md5_cksum>
+            <upload_url>http://metacaptcha.com/final_cgi/file_upload_handler</upload_url>
+        </file_info>
+    </result>
+    <app_versions>
+        <app_version>
+            <app_name>worker</app_name>
+            <version_num>100</version_num>
+            <platform>i686-pc-linux-gnu</platform>
+            <avg_ncpus>1.000000</avg_ncpus>
+            <max_ncpus>1.000000</max_ncpus>
+            <flops>2906955737.840052</flops>
+            <api_version>7.1.2</api_version>
+        </app_version>
+    </app_versions>
+    <other_results>
+    </other_results>
+</scheduler_request>
