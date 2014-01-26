@@ -54,7 +54,6 @@ foreach ( $cursor as $doc)
     $file_info_xml = $xml->result->file_info;
 
     //change file_info in the template
-    $data = "abc";
     $file_info_xml->name = $result['file_ref']['file_name'];
     $nbytes = strlen($data);
     $md5 =md5($data);
